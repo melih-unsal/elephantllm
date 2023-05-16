@@ -1,6 +1,6 @@
 # ElephantLLM
 
-ElephantLLM is a Python library for dealing with word pluralization.
+ElephantLLM is a Python library for dealing with increasing the input length of LLM by appending memory management system.
 
 ## Installation
 
